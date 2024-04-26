@@ -2,7 +2,7 @@
 # TCP/IP communication with UR robot
 #
 # authors: 	Sebastjan Slajpah, sebastjan.slajpah@fe.uni-lj.si
-# 			Peter Kmecl, peterk.kmecl@fe.uni-lj.si
+# 		Peter Kmecl, peterk.kmecl@fe.uni-lj.si
 #
 #			2024 @ robolab
 #			www.robolab.si
